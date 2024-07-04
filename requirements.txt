@@ -1,0 +1,5 @@
+pytest~=8.2.2
+pytest-playwright
+allure-pytest
+pytest-xdist
+playwright~=1.44.0
